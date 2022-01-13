@@ -1,6 +1,6 @@
 {
-"app_name": "Holla Messenger",
-"login_app_name": "Holla Messenger",
+"app_name": "Talker",
+"login_app_name": "Talker",
 "login_qr_info": "Please note that the mobile application must be active in order to login. You have to log in from the mobile app first.",
 "login_qr_info_cont": "No phone. Continue Normal",
 "stickers_title": "Stickers",
@@ -137,7 +137,7 @@
 "messenger": {
 "chats" : "Chats",
 "calls" : "Calls",
-"serverconnecting": "WebRTC Connecting",
+"serverconnecting": "Connecting",
 "serverconnecterror": "Connection Error",
 "findpeople": "Find People",
 "findpeopleinfo": "Paste the ID key down",
